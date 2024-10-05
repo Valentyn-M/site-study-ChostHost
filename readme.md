@@ -1,6 +1,5 @@
-Chost Host - Сайт хостинговой компании
+Chost Host - Hosting Company Website
 
-Landing page
+Landing Page
 
-Flexbox
-Grid
+Flexbox, Grid
